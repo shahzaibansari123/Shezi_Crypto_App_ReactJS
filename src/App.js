@@ -52,7 +52,7 @@ const app = () => {
         </Typography.Title>
         <Space>
           <Link to="/">Home</Link>
-          <Link to="/exchnages">Exchnges</Link>
+          <Link to="/exchanges">Exchnges</Link>
           <Link to="/news">News</Link>
         </Space>
       </div>

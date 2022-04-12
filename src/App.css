@@ -74,6 +74,12 @@ a:hover{
     align-items: center;
 }
 
+.dnf-exchanges{
+    font-size: 42px;
+    text-align: center;
+    font-weight: bold;
+}
+
 @media screen and (max-width:1300px){
     .main{
         margin-left: 50px;
